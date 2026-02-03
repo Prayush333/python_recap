@@ -1,3 +1,4 @@
+
 # variables and datatype
 
 x=10  #int
@@ -18,3 +19,4 @@ print(type(x))
 name=input('enter name:')
 age=int(input("enter age:"))
 printf(f'Name:{name},age:{age}')
+# %%
